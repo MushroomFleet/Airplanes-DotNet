@@ -1,0 +1,13 @@
+<Window x:Class="AirplaneCompanion.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Airplane Companion" 
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        Topmost="True"
+        ShowInTaskbar="False"
+        WindowState="Maximized">
+    
+    <!-- The content will be set programmatically in code-behind -->
+</Window>
